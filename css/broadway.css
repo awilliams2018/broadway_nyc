@@ -1,4 +1,9 @@
-body {
+h1 {
 	text-transform: uppercase;
 	font-family: verdana, sans-serif; 
+}
+H2 {
+	font-family: helvetica, sans-serif;
+	font-size: 32px; 
+	font-weight: bold; 
 }
