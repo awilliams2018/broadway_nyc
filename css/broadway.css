@@ -1,9 +1,16 @@
+body {
+	text-align: center; 
+}
 h1 {
 	text-transform: uppercase;
 	font-family: verdana, sans-serif; 
+	color: white; 
 }
 H2 {
 	font-family: helvetica, sans-serif;
 	font-size: 32px; 
 	font-weight: bold; 
+}
+li {
+	
 }
