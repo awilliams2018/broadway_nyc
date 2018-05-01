@@ -8,6 +8,7 @@ h1 {
 	font-weight: bold; 
 	font-size: 70px;
 	text-align: center; 
+	margin: 0; 
 }
 H2 {
 	font-family: helvetica, sans-serif;
@@ -44,8 +45,10 @@ li {
     background-position:center;
     width:100%;
     height:400px;
-	margin: 0;
+	margin: 0px;
 	padding: 0 auto;
+	background-size: cover; 
+	background-repeat: no-repeat;
 }
 .footer {
 	font-family: helvetica, sans-serif; 
